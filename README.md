@@ -7,8 +7,10 @@ A simple interactive Python script that generates a README.md file for your proj
 ## 🌴 Installation
 
 ```
+git clone https://github.com/Fluff2513/TufREADME
+cd TufREADME
 pip install -r requirements.txt
-python main.py
+python tuffrm.py
 ```
 
 ## 🎀 Usage
