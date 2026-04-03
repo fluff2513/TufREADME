@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
 
-# TufREADME 🌈
+# TufREADME 🎨
 
 > Too Useful For *README* - v1
 
