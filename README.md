@@ -7,7 +7,8 @@ A simple interactive Python script that generates a README.md file for your proj
 ## 🌴 Installation
 
 ```
-pip install questionary rich
+pip install -r requirements.txt
+python main.py
 ```
 
 ## 🎀 Usage
